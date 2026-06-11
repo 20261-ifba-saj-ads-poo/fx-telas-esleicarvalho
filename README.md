@@ -1,3 +1,3 @@
-# Sistema de Cinema e Ingressos
+# Sistema de Loja de Roupas
 
-Desenvolva um sistema para um cinema. O cinema exibe vários `Filme`, cada um com `Sessao` em horários diferentes. Os `Cliente` podem comprar `Ingresso`s para sessões específicas. O sistema deve controlar a quantidade de ingressos disponíveis por sessão e permitir consultar sessões por filme
+Crie um sistema para gerenciar uma loja de roupas. A loja tem vários departamentos, como roupas masculinas, femininas e infantis. Cada departamento contém vários produtos (roupas) com informações como preço, tamanho e cor. Os clientes podem adicionar produtos ao carrinho de compras e finalizar suas compras. Implemente funcionalidades para calcular o total das compras e listar os produtos em um carrinho.
